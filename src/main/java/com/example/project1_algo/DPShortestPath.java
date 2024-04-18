@@ -7,7 +7,7 @@ public class DPShortestPath {
 
 
     private final int n;
-    private final List<List<Integer>> matrix = new ArrayList<>();
+//    private final List<List<Integer>> matrix = new ArrayList<>();
     private final Map<String, Integer> cityIndexMap = new HashMap<>();
 
     private final DPCell[][] spArray;
