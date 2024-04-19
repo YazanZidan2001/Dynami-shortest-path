@@ -1,2 +1,2 @@
-# Dynami-shortest-path
+# Dynamic-shortest-path
  
